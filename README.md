@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runarpettersen&label=Profile%20views&color=0e75b6&style=flat" alt="runarpettersen" /> </p>
 
-- 🌱 I’m currently learning **React**
+- My name is Runar Pettersen, and I’m a Norwegian frontend developer educated at Noroff. I’ve had web design as a hobby since I studied Advertising, Illustration and Design at Elvebakken school in 1996–97. In 2024 I started my studies at Noroff to update my frontend development skills. In general, I prefer working with JavaScript, Tailwind and React. In addition to websites, I also use Adobe’s tools for design work.
 
 - 👨‍💻 Some of my projects are available at [https://runarpettersen.github.io/runarsportfolio/](https://runarpettersen.github.io/runarsportfolio/) and at my updated portfolio at [https://runarportfolio.netlify.app/](https://runarportfolio.netlify.app/).
 

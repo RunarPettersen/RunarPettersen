@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://runarpettersen.github.io/runarsportfolio/](https://runarpettersen.github.io/runarsportfolio/)
+- 👨‍💻 Some of my projects are available at [https://runarpettersen.github.io/runarsportfolio/](https://runarpettersen.github.io/runarsportfolio/) and at my updated portfolio at [https://runarportfolio.netlify.app/](https://runarportfolio.netlify.app/).
 
 - 📫 How to reach me **runarpettersen77@gmail.com**
 

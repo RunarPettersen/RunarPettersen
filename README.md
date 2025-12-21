@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runarpettersen&label=Profile%20views&color=0e75b6&style=flat" alt="runarpettersen" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Some of my projects are available at [https://runarpettersen.github.io/runarsportfolio/](https://runarpettersen.github.io/runarsportfolio/) and at my updated portfolio at [https://runarportfolio.netlify.app/](https://runarportfolio.netlify.app/).
 

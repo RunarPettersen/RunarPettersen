@@ -1,19 +1,45 @@
 <h1 align="center">Hi 👋, I'm Runar Pettersen</h1>
-<h3 align="center">A frontend developer student at Noroff</h3>
+<h3 align="center">Frontend developer & web designer based in Oslo, Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=runarpettersen&label=Profile%20views&color=0e75b6&style=flat" alt="runarpettersen" /> </p>
+I'm a frontend developer and web designer with many years of experience creating and managing websites. I completed a two-year **Frontend Development** programme at **Noroff** in January 2026, building on a long-standing interest in web development and design.
 
-- My name is Runar Pettersen, and I’m a Norwegian frontend developer educated at Noroff. I’ve had web design as a hobby since I studied Advertising, Illustration and Design at Elvebakken school in 1996–97. In 2024 I started my studies at Noroff to update my frontend development skills. In general, I prefer working with JavaScript, Tailwind and React. In addition to websites, I also use Adobe’s tools for design work.
+I work with **React, TypeScript, JavaScript, Tailwind CSS, WordPress and Firebase**, from responsive websites and custom WordPress functionality to database-driven applications. My background in **journalism, digital publishing and graphic design** also influences how I approach content, usability and visual design.
 
-- 👨‍💻 Some of my projects are available at [https://runarpettersen.github.io/runarsportfolio/](https://runarpettersen.github.io/runarsportfolio/) and at my updated portfolio at [https://runarportfolio.netlify.app/](https://runarportfolio.netlify.app/).
+### Selected projects
 
-- 📫 How to reach me **runarpettersen77@gmail.com**
+- **[Mausoleum Nettbutikk](https://mausoleum.no/)** – An online shop with product management, ordering and checkout functionality.
+- **[That Film Spot](https://thatfilmspot.com/)** – A film and television filming-location guide, built with WordPress and custom features.
+- **[Metal Travels](https://metaltravels.com/)** – A worldwide guide to metal-related venues, festivals, shops and other destinations.
+- **[This Cursed Earth](https://thiscursedearth.com/)** – A guide to unusual and macabre destinations, developed with Firebase and custom web functionality.
 
-<h3 align="left">Connect with me:</h3>
+🌐 **Portfolio:** [runarpettersen.com](https://runarpettersen.com/)  
+📫 **Contact:** [runarpettersen77@gmail.com](mailto:runarpettersen77@gmail.com)
+
+### Languages and tools
+
 <p align="left">
-<a href="https://fb.com/runarpettersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="runarpettersen" height="30" width="40" /></a>
-<a href="https://instagram.com/runarpettersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runarpettersen" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Design tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="38" height="38" />
+</p>
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/runarpettersen/) · [Portfolio](https://runarpettersen.com/) · [Instagram](https://www.instagram.com/runar_pettersen/)
